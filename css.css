@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+.ad{
+	width:558px;
+	height:258px;
+	display:inline;
+	position:absolute;
+	left:50%;
+	margin-left:-279px;
+	top:200px;
+	z-index:10000;
+	}
+#adflash{
+	width:558px;
+	height:258px;
+	position:absolute;
+	top:0;
+	z-index:1;
+	}
+#Close{
+	width:17px;
+	height:17px;
+	position:absolute;
+	top:0px;
+	left:540px;
+	z-index:10;
+	}
